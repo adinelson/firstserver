@@ -1,0 +1,5 @@
+
+I created a ruby file and I first require 'sinatra' in order to use the gem of the language to create a server
+then I used the get method to look in the root directory '/' and added the send_file('index.html') so it will take all the info from the index.html to the root directory
+then in the terminal I called the  the ruby file to connect to the server by using the command ruby filename.rb
+after I saw the that connection was successful I opened a new command line tab to connect to the localhost by using the curl command  
